@@ -12,3 +12,4 @@ My favorite Git command is `git status` because it shows the current state of my
 
 \*\*I am learning Git and GitHub!\*\*
 
+I am practicing Git branches and pull requests in Lab 02.
